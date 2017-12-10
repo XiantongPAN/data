@@ -1,4 +1,4 @@
-Chinese character to pinyin(汉语拼音) table.
+Chinese character to pinyin(汉语拼音) table. It is taken from https://github.com/lxyu/pinyin
 
 Table structure:
 
