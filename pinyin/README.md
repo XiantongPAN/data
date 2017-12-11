@@ -12,7 +12,7 @@ Table structure:
 
 
 Notes:
-* the code value is not continues.
+* the code value is not continuous.
 * number following pinyin is to represent tone (采用数字1, 2, 3, 4, 5, 代替《汉语拼音方案》中声调阴平（ˉ）, 阳平（ˊ）, 上声（ˇ）, 去声（ˋ）, 轻声（不标调）这几个标调符号).
 * if there is more than one pinyin for a single character, all the pinyin will be listed with space splitted.
 
